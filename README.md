@@ -5,6 +5,7 @@ In addition to
 - Typescript
 - ESLint
 - TailwindCSS
+
 this boilerplate is preconfigured with 
 - Prettier
 - Tailwind Prettier plugin
